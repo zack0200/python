@@ -1,2 +1,2 @@
 # python
- curso de python
+ curso de python 2
